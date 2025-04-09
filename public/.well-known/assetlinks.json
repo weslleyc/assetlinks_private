@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.opus.poc_opus",
+      "sha256_cert_fingerprints": ["8B:F3:42:92:7C:AB:D4:CB:8A:1C:1B:C6:13:E6:99:09:50:53:87:D7:5B:64:AB:F7:53:21:07:B0:29:8E:3A:F4"]
+    }
+  }
+]
